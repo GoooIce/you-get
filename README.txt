@@ -21,6 +21,7 @@ Supported Sites (As of Now)
 * Vimeo http://vimeo.com
 * Coursera https://www.coursera.org
 * Blip http://blip.tv
+* CBS http://www.cbs.com
 * Dailymotion http://dailymotion.com
 * eHow http://www.ehow.com
 * Facebook http://facebook.com
@@ -41,7 +42,7 @@ Supported Sites (As of Now)
 * Youku (优酷) http://www.youku.com
 * Tudou (土豆) http://www.tudou.com
 * YinYueTai (音悦台) http://www.yinyuetai.com
-* AcFun http://www.acfun.tv
+* AcFun http://www.acfun.com
 * bilibili http://www.bilibili.tv
 * CNTV (中国网络电视台) http://www.cntv.cn
 * Douban (豆瓣) http://douban.com
